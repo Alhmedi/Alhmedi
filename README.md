@@ -5,7 +5,7 @@ Hey daar! Ik ben Mohammad, een student aan het ROC van Twente, waar ik de opleid
 ## Over mij
 
 - 🎓 Momenteel studeer ik aan het ROC van Twente en werk ik hard om mijn vaardigheden als softwareontwikkelaar te verbeteren.
-- 💻 Ik ben vooral geïnteresseerd in webontwikkeling, mobiele apps, machine learning en AI.
+- 💻 Ik ben vooral geïnteresseerd in webontwikkeling, mobiele apps en AI.
 - 🌱 Ik ben altijd op zoek naar nieuwe dingen om te leren en te experimenteren met code.
 
 ## Connecteer met mij
