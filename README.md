@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welkom op mijn GitHub-profiel! 👋
 
-<!--
-**Alhmedi/Alhmedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey daar! Ik ben Mohammad, een student aan het ROC van Twente, waar ik de opleiding Software Developer volg. Ik ben gepassioneerd door het bouwen van software en het ontdekken van nieuwe technologieën. Dit is mijn digitale speeltuin waar ik mijn projecten deel en mijn leerproces documenteer.
 
-Here are some ideas to get you started:
+## Over mij
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Momenteel studeer ik aan het ROC van Twente en werk ik hard om mijn vaardigheden als softwareontwikkelaar te verbeteren.
+- 💻 Ik ben vooral geïnteresseerd in webontwikkeling, mobiele apps, machine learning en AI.
+- 🌱 Ik ben altijd op zoek naar nieuwe dingen om te leren en te experimenteren met code.
+
+## Connecteer met mij
+
+- [LinkedIn] https://www.linkedin.com/in/mohammad-alhmedi-740585297/
+
+Bedankt voor het langskomen! Ik kijk ernaar uit om mijn reis in de wereld van de softwareontwikkeling met jullie te delen.
+
+Happy coding! 💻✨
