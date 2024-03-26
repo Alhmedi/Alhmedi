@@ -11,6 +11,7 @@ Hey daar! Ik ben Mohammad, een student aan het ROC van Twente, waar ik de opleid
 ## Connecteer met mij
 
 - [LinkedIn] https://www.linkedin.com/in/mohammad-alhmedi-740585297/
+- [github] https://github.com/Alhmedi
 
 Bedankt voor het langskomen! Ik kijk ernaar uit om mijn reis in de wereld van de softwareontwikkeling met jullie te delen.
 
